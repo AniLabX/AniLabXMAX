@@ -2,7 +2,7 @@
 	"alpha": {
 		"version_name": "1.2",
 		"version_code": "5",
-		"min_version_code": "3",
+		"min_version_code": "1",
 		"update_url": "https://github.com/AniLabX/AniLabXMAX/releases",
 		"changelog_en": [
 "New:",
@@ -34,7 +34,7 @@
 	"beta": {
 		"version_name": "1.2",
 		"version_code": "5",
-		"min_version_code": "3",
+		"min_version_code": "1",
 		"update_url": "https://github.com/AniLabX/AniLabXMAX/releases",
 		"changelog_en": [
 "New:",
@@ -66,7 +66,7 @@
 	"release": {
 		"version_name": "1.2",
 		"version_code": "5",
-		"min_version_code": "3",
+		"min_version_code": "1",
 		"update_url": "https://github.com/AniLabX/AniLabXMAX/releases",
 		"changelog_en": [
 "New:",
